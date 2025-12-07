@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "343fb8b79e2fca5e",
+            "id": "549ccc5c28bfdf7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan spots Geralt's approach.md",
+                "file": "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/spec_Zoltan-Confronted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zoltan spots Geralt's approach"
-            }
-          },
-          {
-            "id": "af1c2758407f6061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan greets Geralt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zoltan greets Geralt"
+              "title": "spec_Zoltan-Confronted"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +107,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -204,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 1019.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,15 +203,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbb6e20c61a11da8",
+  "active": "a7820d5287985e4f",
   "lastOpenFiles": [
-    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan greets Geralt.md",
-    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan spots Geralt's approach.md",
-    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Geralt spots Zoltan outside the inn, confronted by dangerous sorts.md",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/contents",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/spec_Zoltan-Confronted.md",
+    "Igraphs/ReferenceStudy",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/contents/Zoltan greets Geralt.md",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/contents/Zoltan spots Geralt's approach.md",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/contents/Geralt spots Zoltan outside the inn, confronted by dangerous sorts.md",
     "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/examples",
-    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game/Zoltan-Confronted",
     "format.md",
-    "Igraphs/REF_TW3_A-Dangerous-Game",
+    "Igraphs/ReferenceStudy/REF_TW3_A-Dangerous-Game",
     "Igraphs",
     "GameWriting",
     "Welcome.md"
