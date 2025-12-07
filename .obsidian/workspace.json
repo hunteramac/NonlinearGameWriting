@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interaction graphs.md",
+                "file": "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write/p1_theMeet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interaction graphs"
+              "title": "p1_theMeet"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 433.5004348754883
   },
   "right": {
     "id": "6bb94fc22c48b584",
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 661.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,13 @@
   "active": "72fd95c67506ea9f",
   "lastOpenFiles": [
     "Interaction graphs.md",
+    "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write/p1_theMeet.md",
+    "Igraphs/ReferenceStudy/C2077/PL/TheMeet/contents/V sits down to wait.md",
+    "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write",
+    "Igraphs/ReferenceStudy/C2077/PL/TheMeet/spec.md",
+    "Igraphs/ReferenceStudy/C2077/PL/TheMeet/contents",
+    "Igraphs/ReferenceStudy/C2077/PL",
+    "Igraphs/ReferenceStudy/C2077/PL/TheMeet",
     "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted/contents/Geralt spots Zoltan outside the inn, confronted by dangerous sorts.md",
     "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted/spec_Zoltan-Confronted.md",
     "Igraphs/ReferenceStudy/C2077",
@@ -217,9 +225,6 @@
     "Igraphs/ReferenceStudy",
     "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/examples",
     "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted",
-    "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game",
-    "Igraphs",
-    "GameWriting",
     "Welcome.md"
   ]
 }

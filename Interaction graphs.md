@@ -34,3 +34,8 @@ The interaction graph is defined using obsidian.md files as follows
    Certain occurrences within the graph should be able cause a change within the game sim. 
    Eg If an NPC bids PC farewell, and as the graph, we know they should depart. We need the sim to execute this in an opened manner, if, for example, it should be possible for the player character to interfere with it in some open ended way.
 
+
+# Specific paths
+Often the writer will want to visualize a specific game state in order to better understand how to define possible permutation. Game state is by definition made up of both the sim and Igraph. But the Igraph is the only thing writer and designer has real control over - when it's realized in the game.
+
+During writing, the designer can and should come up with specific examples - or paths - through the game, to help orientate and blockout the scene. These likely come in form of .md files which contain specific portrayal narration for both sim and igraph.
