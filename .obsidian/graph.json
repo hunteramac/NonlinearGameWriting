@@ -1,13 +1,13 @@
 {
   "collapse-filter": false,
-  "search": "path:Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted  ",
+  "search": "path:Igraphs/ReferenceStudy  ",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4616813521147805,
+  "scale": 1.740497823076591,
   "close": false
 }
