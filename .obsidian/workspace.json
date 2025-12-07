@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca97be1c0e1ac6d",
+        "id": "07c944b764655d2a",
         "type": "tabs",
         "children": [
           {
             "id": "343fb8b79e2fca5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan spots Geralt's approach.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zoltan spots Geralt's approach"
             }
-          }
-        ]
-      },
-      {
-        "id": "86193d20c8b5a08f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "dbb6e20c61a11da8",
+            "id": "af1c2758407f6061",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan greets Geralt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zoltan greets Geralt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,19 +49,6 @@
         "id": "7989ba668a04ba83",
         "type": "tabs",
         "children": [
-          {
-            "id": "a7820d5287985e4f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "8ca45f250064e597",
             "type": "leaf",
@@ -87,12 +75,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a7820d5287985e4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 506.5
   },
   "right": {
     "id": "6bb94fc22c48b584",
@@ -102,6 +104,28 @@
         "id": "8fc17d176577902b",
         "type": "tabs",
         "children": [
+          {
+            "id": "dbb6e20c61a11da8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bdc830653aba4e8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
           {
             "id": "046f3a6a4ae0b10a",
             "type": "leaf",
@@ -149,20 +173,6 @@
             }
           },
           {
-            "id": "28185bcbc99b9dc3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "2ea0cb0daf515f34",
             "type": "leaf",
             "state": {
@@ -175,12 +185,26 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "28185bcbc99b9dc3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "343fb8b79e2fca5e",
+  "active": "dbb6e20c61a11da8",
   "lastOpenFiles": [
+    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan greets Geralt.md",
+    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Zoltan spots Geralt's approach.md",
+    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/Geralt spots Zoltan outside the inn, confronted by dangerous sorts.md",
+    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/examples",
+    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted",
+    "format.md",
+    "Igraphs/REF_TW3_A-Dangerous-Game",
+    "Igraphs",
     "GameWriting",
     "Welcome.md"
   ]
