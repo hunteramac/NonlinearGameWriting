@@ -27,3 +27,22 @@ JOHNNY
 (pretends to scrutinize the attendees)
 (shrugs)
 Nah.
+
+[[V takes a seat to sitdown and wait]]
+V considers the crowd for a moment longer.
+Then reluctantly takes a seat as well.
+V
+(mutters)
+Waiting around. What else is new.
+
+---
+
+%% time skip. The Player has had PC to wait for something to happen of note. The Sim runs / but it's mostly domain of IGRAPH %%
+
+%% now we start adhering more closely to the reference %%
+
+---
+
+%% the next most interesting thing that happens while the mercenary waits on the basket ball stands %%
+[[encounter_Johnny is bored of the game]]
+
