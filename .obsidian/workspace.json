@@ -13,15 +13,204 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write/p1_theMeet.md",
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/example/e1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p1_theMeet"
+              "title": "e1"
+            }
+          },
+          {
+            "id": "64b4443cd2932308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V Convo stage 2, Jackie has mentioned who the fixer is.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S V Convo stage 2, Jackie has mentioned who the fixer is"
             }
           }
         ]
+      },
+      {
+        "id": "706d27553c6c4b5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a569bafd1147f294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V asks about the job Jackie mentioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S V asks about the job Jackie mentioned"
+            }
+          },
+          {
+            "id": "7ec4910fc6e162ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V Convo stage 2, Jackie has mentioned who the fixer is.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S V Convo stage 2, Jackie has mentioned who the fixer is"
+            }
+          },
+          {
+            "id": "968edcc9e4410c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CA collection, stage 2"
+            }
+          },
+          {
+            "id": "1366e1fd693a346e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E Jackie notices V's approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E Jackie notices V's approach"
+            }
+          },
+          {
+            "id": "7e5de33dacba2abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie invites V to sit down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S Jackie invites V to sit down"
+            }
+          },
+          {
+            "id": "e8a17de5f40a980b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CA collection, stage 1"
+            }
+          },
+          {
+            "id": "9546442d5d4720f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie invites V to sit down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S Jackie invites V to sit down"
+            }
+          },
+          {
+            "id": "4f2618148f0fda98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie invites V to sit down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S Jackie invites V to sit down"
+            }
+          },
+          {
+            "id": "9650ff709adb2d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V makes out better detail of Jackie on approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E V makes out better detail of Jackie on approach"
+            }
+          },
+          {
+            "id": "c9497f1d04013fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V makes out better detail of Jackie on approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E V makes out better detail of Jackie on approach"
+            }
+          },
+          {
+            "id": "1e5301fea89dd31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie greets V.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S Jackie greets V"
+            }
+          },
+          {
+            "id": "752715613a1b38b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie greets V.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S Jackie greets V"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5004348754883
+    "width": 316.5004348754883
   },
   "right": {
     "id": "6bb94fc22c48b584",
@@ -190,8 +379,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +395,26 @@
   },
   "active": "72fd95c67506ea9f",
   "lastOpenFiles": [
-    "Interaction graphs.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V Convo stage 2, Jackie has mentioned who the fixer is.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/example/e1.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 2.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V asks about the job Jackie mentioned.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Convo Stage 1, V has not yet taken a seat, and just walked up.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V makes out better detail of Jackie on approach.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V spots Jackie at the noodle stand.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA V sits down, asks about the 'surprise' Jackie mentioned earlier.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E Jackie notices V's approach.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/spec.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA V asks Jackie what he's eating.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V experiences visual artifacts due to system malfunction.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie invites V to sit down.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 1.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie greets V.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content",
     "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write/p1_theMeet.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/example",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand",
+    "Interaction graphs.md",
     "Igraphs/ReferenceStudy/C2077/PL/TheMeet/contents/V sits down to wait.md",
     "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write",
     "Igraphs/ReferenceStudy/C2077/PL/TheMeet/spec.md",
@@ -222,9 +428,6 @@
     "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted/contents/Zoltan greets Geralt.md",
     "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted/contents/Zoltan spots Geralt's approach.md",
     "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted/contents",
-    "Igraphs/ReferenceStudy",
-    "Igraphs/REF_TW3_A-Dangerous-Game/Zoltan-Confronted/examples",
-    "Igraphs/ReferenceStudy/TW3/A-Dangerous-Game/Zoltan-Confronted",
     "Welcome.md"
   ]
 }
