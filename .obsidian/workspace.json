@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/example/e1.md",
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Convo Stage 1, V has not yet taken a seat, and just walked up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e1"
+              "title": "S Convo Stage 1, V has not yet taken a seat, and just walked up"
             }
           },
           {
@@ -268,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5004348754883
+    "width": 408.5004348754883
   },
   "right": {
     "id": "6bb94fc22c48b584",
@@ -306,6 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Convo Stage 1, V has not yet taken a seat, and just walked up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +316,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for S Convo Stage 1, V has not yet taken a seat, and just walked up"
             }
           },
           {
@@ -379,7 +380,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 786.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,23 +394,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72fd95c67506ea9f",
+  "active": "bdc830653aba4e8f",
   "lastOpenFiles": [
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V Convo stage 2, Jackie has mentioned who the fixer is.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/example/e1.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 2.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V asks about the job Jackie mentioned.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Convo Stage 1, V has not yet taken a seat, and just walked up.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie greets V.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E Jackie notices V's approach.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V Convo stage 2, Jackie has mentioned who the fixer is.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V experiences visual artifacts due to system malfunction.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA V sits down, asks about the 'surprise' Jackie mentioned earlier.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V makes out better detail of Jackie on approach.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V spots Jackie at the noodle stand.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA V sits down, asks about the 'surprise' Jackie mentioned earlier.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E Jackie notices V's approach.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 1.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 2.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/example/e1.md",
+    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S V asks about the job Jackie mentioned.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/spec.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA V asks Jackie what he's eating.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/E V experiences visual artifacts due to system malfunction.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie invites V to sit down.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/CA collection, stage 1.md",
-    "Igraphs/ReferenceStudy/C2077/NoodleStand/content/S Jackie greets V.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/content",
     "Igraphs/ReferenceStudy/C2077/PL/TheMeet/example write/p1_theMeet.md",
     "Igraphs/ReferenceStudy/C2077/NoodleStand/example",

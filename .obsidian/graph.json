@@ -1,12 +1,41 @@
 {
   "collapse-filter": false,
-  "search": "path:Igraphs/ReferenceStudy  ",
+  "search": "path:Igraphs/ReferenceStudy/C2077/NoodleStand/content  ",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#interactionGraphState  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#eventIn",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "tag:#contextAction  ",
+      "color": {
+        "a": 1,
+        "rgb": 14731602
+      }
+    },
+    {
+      "query": "tag:#eventOut  ",
+      "color": {
+        "a": 1,
+        "rgb": 5410784
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.740497823076591,
+  "scale": 0.8609134744457384,
   "close": false
 }

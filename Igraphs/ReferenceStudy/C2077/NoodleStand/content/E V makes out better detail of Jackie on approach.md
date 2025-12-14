@@ -1,6 +1,6 @@
 ---
 tags:
-  - event
+  - eventIn
 ---
 
 Jackie is working his way through a second box of noodles 
