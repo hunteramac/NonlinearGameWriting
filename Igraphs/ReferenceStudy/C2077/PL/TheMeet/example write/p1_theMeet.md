@@ -46,3 +46,8 @@ Waiting around. What else is new.
 %% the next most interesting thing that happens while the mercenary waits on the basket ball stands %%
 [[encounter_Johnny is bored of the game]]
 
+early evening, deep orange hues across the sky, putting detritus of pacifica - towering scrapers - in deep shadow.
+
+The mercenary maintains their vigel for the mysterious Reed.
+
+The phantasmal rocker boy has started pacing.
